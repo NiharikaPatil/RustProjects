@@ -81,5 +81,5 @@ fn parse_args() -> Arguments {
 
 pub fn run() {
     let args = parse_args();
-    read_and_Write(&args);
+    read_and_write(&args);
 }
