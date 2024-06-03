@@ -1,3 +1,6 @@
 [submodule "Ball_simulator"]
 	path = Ball_simulator
 	url = https://github.com/NiharikaPatil/Ball_simulator.git
+[submodule "cli"]
+	path = cli
+	url = https://github.com/NiharikaPatil/Find-Replace.git
